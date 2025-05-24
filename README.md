@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Foul
+# 👋 Hey, I'm Yash
 
 🎮 Game Developer | 🕹️ Systems Designer | 🧠 Real-Time Interaction Architect  
 Specializing in Unreal Engine mechanics, immersive gameplay systems, and performance-optimized tech.
@@ -26,7 +26,7 @@ Specializing in Unreal Engine mechanics, immersive gameplay systems, and perform
 
 ## 📊 GitHub Stats
 
-![Foul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashKhare143&show_icons=true&theme=radical)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashKhare143&show_icons=true&theme=radical)
 
 ---
 
@@ -37,5 +37,4 @@ Specializing in Unreal Engine mechanics, immersive gameplay systems, and perform
 - `replay-system-ui` — Seamless seekable replay with UI & backend support
 
 
-> “Mechanics are language. Code is logic. Games are systems — make them speak.”  
-> — *Foul*
+> “💫Build Knowledge not just projects”  
