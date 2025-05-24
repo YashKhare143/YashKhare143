@@ -5,11 +5,11 @@
     <a href="https://github.com/YashKhare143">
         <img src="https://hits.sh/github.com/YashKhare143/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge" />
     </a>
-    <h1>Hi, I'm Foul!</h1>
+    <h1>Hi, I'm Yash!</h1>
 </div>
 
 ```cpp
-class Foul : public Developer {
+class Yash : public Developer {
 public:
     std::string specialization = "Game Development";
     std::string focus = "Unreal Engine | Climbing & Combat Systems";
