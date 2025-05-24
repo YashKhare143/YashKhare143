@@ -17,7 +17,7 @@ public:
     std::vector<std::string> projects = {
         "Climbing System", "Combat System", 
         "Thermal Bullet Detection", 
-        "Replay & Analytics System"
+        "Replay & Analytics System in UE5"
     };
 };
 ```
