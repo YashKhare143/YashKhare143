@@ -24,7 +24,7 @@ public:
 
 <div align="center">
     <a href="https://www.youtube.com/@yashkhare">
-        <img src="https://img.shields.io/static/v1?label=YouTube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=181825&color=a6e3a1" />
+        <img src="https://img.shields.io/static/v1?label=YouTube&mesage=Subscrube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=181825&color=a6e3a1" />
     </a>
 </div>
 
