@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="https://github.com/FoulUsername">
-        <img src="https://img.shields.io/github/followers/FoulUsername?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
+    <a href="https://github.com/YashKhare143">
+        <img src="https://img.shields.io/github/followers/YashKhare143?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
     </a>
-    <a href="https://github.com/FoulUsername">
-        <img src="https://hits.sh/github.com/FoulUsername/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge" />
+    <a href="https://github.com/YashKhare143">
+        <img src="https://hits.sh/github.com/YashKhare143/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge" />
     </a>
     <h1>Hi, I'm Foul!</h1>
 </div>
@@ -23,11 +23,8 @@ public:
 ```
 
 <div align="center">
-    <a href="https://fiverr.com/your-username">
-        <img src="https://img.shields.io/static/v1?label=Fiverr&message=Hire%20Me&logo=fiverr&style=for-the-badge&logoColor=white&labelColor=181825&color=a6e3a1" />
-    </a>
-    <a href="https://yourwebsite.com">
-        <img src="https://img.shields.io/static/v1?label=Portfolio&message=View%20Work&logo=googlechrome&style=for-the-badge&logoColor=white&labelColor=181825&color=89b4fa">
+    <a href="https://www.youtube.com/@yashkhare">
+        <img src="https://img.shields.io/static/v1?label=YouTube&message=%20Me&logo=fiverr&style=for-the-badge&logoColor=white&labelColor=181825&color=a6e3a1" />
     </a>
 </div>
 
