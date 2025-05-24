@@ -26,7 +26,7 @@ Specializing in Unreal Engine mechanics, immersive gameplay systems, and perform
 
 ## 📊 GitHub Stats
 
-![Foul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Foul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashKhare143&show_icons=true&theme=radical)
 
 ---
 
