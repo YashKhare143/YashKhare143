@@ -1,40 +1,51 @@
-# 👋 Hey, I'm Yash
+<div align="center">
+    <a href="https://github.com/FoulUsername">
+        <img src="https://img.shields.io/github/followers/FoulUsername?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
+    </a>
+    <a href="https://github.com/FoulUsername">
+        <img src="https://hits.sh/github.com/FoulUsername/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge" />
+    </a>
+    <h1>Hi, I'm Foul!</h1>
+</div>
 
-🎮 Game Developer | 🕹️ Systems Designer | 🧠 Real-Time Interaction Architect  
-Specializing in Unreal Engine mechanics, immersive gameplay systems, and performance-optimized tech.
+```cpp
+class Foul : public Developer {
+public:
+    std::string specialization = "Game Development";
+    std::string focus = "Unreal Engine | Climbing & Combat Systems";
+    std::vector<std::string> languages = { "C++", "Blueprint", "Python", "JavaScript", "Verse" };
+    std::vector<std::string> projects = {
+        "Climbing System", "Combat System", 
+        "Thermal Bullet Detection", 
+        "Replay & Analytics System"
+    };
+};
+```
+
+<div align="center">
+    <a href="https://fiverr.com/your-username">
+        <img src="https://img.shields.io/static/v1?label=Fiverr&message=Hire%20Me&logo=fiverr&style=for-the-badge&logoColor=white&labelColor=181825&color=a6e3a1" />
+    </a>
+    <a href="https://yourwebsite.com">
+        <img src="https://img.shields.io/static/v1?label=Portfolio&message=View%20Work&logo=googlechrome&style=for-the-badge&logoColor=white&labelColor=181825&color=89b4fa">
+    </a>
+</div>
 
 ---
 
-## 🚀 What I’m Building
-
-- 🧗 **Advanced Climbing Mechanics** — Freeform movement with ledge detection, vaulting, and IK integration
-- 🥊 **Custom Combat System** — Modular melee & ranged combat with dynamic animations and hit detection
-- 🔥 **Thermal Hit Detection Interface** — Real-time thermal frame analysis with hit event logging
-- 📊 **Data-Driven Replay System** — Playback tools with timeline navigation and analytics hooks
-
----
-
-## 🧰 Tech Stack
-
-**Game Engines**: Unreal Engine 5, UEFN, Unity  
-**Languages**: C++, Blueprint, Python, JavaScript, Verse  
-**Systems**: Node.js, MySQL, REST APIs, WebSockets  
-**Hardware**: ESP32, Sensor Grids, Thermal Cams  
-**Dev Tools**: Git, VS Code, Rider, Figma
+<div align="center">
+    <h2>Languages I Know</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,typescript&theme=dark&perline=6" />
+    </a>
+    <h2>Frameworks & Tools</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=unreal,unity,nodejs,git,figma,vscode&theme=dark&perline=6" />
+    </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashKhare143&show_icons=true&theme=radical)
-
----
-
-## 🧩 Featured Projects
-
-- `ue5-combat-climbing` — Full climbing & combat mechanics in C++ + Blueprint
-- `thermal-detection-gui` — Hit detection using thermal vision processing
-- `replay-system-ui` — Seamless seekable replay with UI & backend support
-
-
-> “💫Build Knowledge not just projects”  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FoulUsername&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&border_radius=8" />
+</div>
