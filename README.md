@@ -35,17 +35,7 @@ Specializing in Unreal Engine mechanics, immersive gameplay systems, and perform
 - `ue5-combat-climbing` — Full climbing & combat mechanics in C++ + Blueprint
 - `thermal-detection-gui` — Hit detection using thermal vision processing
 - `replay-system-ui` — Seamless seekable replay with UI & backend support
-- `esp32-sensor-grid` — Hardware-triggered interaction grid via ESP32
 
----
-
-## 📫 Connect with Me
-
-- 🧪 [Fiverr](https://www.fiverr.com/your-username)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📬 your.email@example.com
-
----
 
 > “Mechanics are language. Code is logic. Games are systems — make them speak.”  
 > — *Foul*
