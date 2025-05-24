@@ -26,9 +26,9 @@ public:
     <a href="https://www.youtube.com/@yashkhare">
         <img src="https://img.shields.io/static/v1?label=YouTube&message=Subscrube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=181825&color=a6e3a1" />
     </a>
-    
+    <a href="">
         <img src="https://img.shields.io/static/v1?label=Discord&message=@foul._tarnished&logo=discord&style=for-the-badge&logoColor=white&labelColor=181825&color=a6e3a1" />
-    
+    </a>
 </div>
 
 ---
