@@ -36,16 +36,16 @@ public:
 <div align="center">
     <h2>Languages I Know</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,typescript&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,typescrip,verset&theme=dark&perline=6" />
     </a>
     <h2>Frameworks & Tools</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=unreal,unity,nodejs,git,figma,vscode&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=unreal,unity,nodejs,git,vscode&theme=dark&perline=6" />
     </a>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FoulUsername&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&border_radius=8" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YashKhare143&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&border_radius=8" />
 </div>
